@@ -1,5 +1,6 @@
 // 1. write a program to calculate percentage of a given student in CBSC board exam. His marks from 5 subjects must be taken as input from the keyword (marks out of 100).
 
+
 // public class Pr_1 {
 //     public static void main(String[] args) {
         
@@ -34,7 +35,9 @@
 //         float grandTotal = total * 100 / (total_marks*5);
 //         System.out.println("Your Total Percentage = " + grandTotal + " Percent");
 //         System.out.println("Made By Yashraj Chaudhari");
+
 //     }
+
 // }
      
 
