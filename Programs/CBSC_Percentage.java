@@ -1,8 +1,8 @@
-package Programs;
 import java.util.*;
+
 public class CBSC_Percentage {
     public static void main(String[] args) {
-        
+
         float total = 0;
         System.out.println("WELCOME TO THE CBSE PERCENTAGE GENERATOR");
 
@@ -31,11 +31,8 @@ public class CBSC_Percentage {
         float s5 = scan.nextFloat();
         total = total + s5;
 
-        float grandTotal = total * 100 / (total_marks*50);
+        float grandTotal = total * 100 / (total_marks * 50);
         System.out.println("Your Total Percentage = " + grandTotal + " Percent");
         System.out.println("****Made By Yashraj Chaudhari****");
     }
 }
-     
-
-
