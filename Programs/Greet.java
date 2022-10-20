@@ -5,6 +5,6 @@ public class Greet {
         Scanner scan = new Scanner(System.in);
         System.out.print("What is your name: ");
         String name = scan.nextLine();
-        System.out.println("Hello, " + name + " have a good day!");
+        System.out.println("Hello, " + name + " Have a good day!");
     }
 }

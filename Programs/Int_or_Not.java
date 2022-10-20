@@ -7,6 +7,7 @@ public class Int_or_Not {
         while (true) {
             System.out.print("Enter your number: ");
             Scanner scan = new Scanner(System.in);
+
             System.out.println(scan.hasNextInt());
         }
     }
