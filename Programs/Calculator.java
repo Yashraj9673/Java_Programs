@@ -28,10 +28,10 @@ public class Calculator {
                     System.out.println("Reminder is: " + (a % b));
                     break;
                 default:
-                    System.out.println("Invalid Input");
+                    System.out.println("Invalid Input ");
                     break;
             }
-            System.out.println("\nNext Operation: \n");
+            System.out.println("\n Next Operation: \n");
         }
     }
 }

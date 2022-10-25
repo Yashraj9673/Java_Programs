@@ -8,7 +8,7 @@ public class CBSC_Percentage {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Enter Total Marks of the subjects (Out of 100) : ");
+        System.out.print("Enter Total Marks of the subjects (Out of 100): ");
         int total_marks = scan.nextInt();
 
         System.out.print(" Enter Marks of Subject 1: ");
