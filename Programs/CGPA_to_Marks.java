@@ -10,7 +10,7 @@ public class CGPA_to_Marks {
         System.out.print("Enter the marks of sub 3: ");
         float sub3 = sc.nextFloat();
         float cgpa = (sub1 + sub2 + sub3) / 30;
-        System.out.println("Your CGPA is: " + cgpa);
+        System.out.println(" Your CGPA is: " + cgpa);
     }
 
 }
