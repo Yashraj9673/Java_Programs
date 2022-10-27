@@ -33,6 +33,6 @@ public class CBSC_Percentage {
 
         float grandTotal = total * 100 / (total_marks * 50);
         System.out.println("Your Total Percentage = " + grandTotal + " Percent");
-        System.out.println("***Made By Yashraj Chaudhari***");
+        System.out.println("****Made By Yashraj Chaudhari****");
     }
 }
