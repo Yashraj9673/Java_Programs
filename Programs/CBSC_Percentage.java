@@ -1,4 +1,6 @@
-, import java.util.*;
+package Programs;
+
+import java.util.*;
 
 public class CBSC_Percentage {
     public static void main(String[] args) {

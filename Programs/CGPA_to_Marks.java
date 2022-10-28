@@ -1,3 +1,5 @@
+package Programs;
+
 import java.util.*;
 
 public class CGPA_to_Marks {
