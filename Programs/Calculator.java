@@ -10,7 +10,7 @@ public class Calculator {
             int a = sc.nextInt();
             System.out.print("Enter the second number: ");
             int b = sc.nextInt();
-            System.out.print("Enter the operation:");
+            System.out.print("Enter the operation: ");
             int calculator = sc.nextInt();
 
             switch (calculator) {
