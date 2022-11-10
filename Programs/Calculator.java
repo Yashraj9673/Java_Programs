@@ -33,7 +33,7 @@ public class Calculator {
                     System.out.println("Invalid Input ");
                     break;
             }
-            System.out.println("\n Next Operation: \n");
+            System.out.println("\n Next Operation: ");
         }
     }
 }
